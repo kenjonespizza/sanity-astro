@@ -44,7 +44,7 @@
     "astro-integration"
   ],
   "dependencies": {
-    "@sanity/client": "^6.4.4"
+    "@sanity/client": "^6.4.6"
   },
   "release": {
     "extends": "@sanity/semantic-release-preset",
